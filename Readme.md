@@ -2,7 +2,7 @@
 
 A real-time 2D raycasting simulation built with Go and Raylib, demonstrating dynamic lighting and shadow effects in a room-based environment.
 
-![Screenshot](screenshots/Screenshot 2025-12-28 193047.png)
+![Screenshot](screenshots/demo.png)
 
 ## Features
 
